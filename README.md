@@ -1,1 +1,1 @@
-See https://github.com/arunthomas/riscv-sw/wiki/Status
+See https://github.com/arunthomas/riscv-sw/wiki/
