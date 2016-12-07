@@ -1,1 +1,1 @@
-See https://github.com/arunthomas/riscv-sw/wiki/
+The SW status page has moved to the RISC-V GitHub wiki: https://github.com/riscv/riscv-wiki/wiki/RISC-V-Software-Status
